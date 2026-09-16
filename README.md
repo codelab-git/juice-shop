@@ -2,6 +2,8 @@
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/codelab-git/juice-shop/badge)](https://scorecard.dev/viewer/?uri=github.com/codelab-git/juice-shop)
 
+[![trivy](https://github.com/codelab-git/juice-shop/actions/workflows/trivy.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/trivy.yml)
+
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)
 [![Twitter Follow](https://img.shields.io/twitter/follow/owasp_juiceshop.svg?style=social&label=Follow)](https://twitter.com/owasp_juiceshop)

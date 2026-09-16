@@ -5,6 +5,7 @@
 [![trivy](https://github.com/codelab-git/juice-shop/actions/workflows/trivy.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/trivy.yml)
 [![Semgrep to Shuffle Integration](https://github.com/codelab-git/juice-shop/actions/workflows/semgrep.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/semgrep.yml)
 [![ZAP Baseline Scan](https://github.com/codelab-git/juice-shop/actions/workflows/zap_scan.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/zap_scan.yml)
+[![ZAP Full Scan](https://github.com/codelab-git/juice-shop/actions/workflows/zap_full_scan.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/zap_full_scan.yml)
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)

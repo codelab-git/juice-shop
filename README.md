@@ -3,6 +3,7 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/codelab-git/juice-shop/badge)](https://scorecard.dev/viewer/?uri=github.com/codelab-git/juice-shop)
 [![gitleaks](https://github.com/codelab-git/juice-shop/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/gitleaks.yml)
 [![trivy](https://github.com/codelab-git/juice-shop/actions/workflows/trivy.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/trivy.yml)
+[![Semgrep to Shuffle Integration](https://github.com/codelab-git/juice-shop/actions/workflows/semgrep.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/semgrep.yml)
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)

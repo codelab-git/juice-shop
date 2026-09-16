@@ -1,7 +1,7 @@
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/codelab-git/juice-shop/badge)](https://scorecard.dev/viewer/?uri=github.com/codelab-git/juice-shop)
-
+[![gitleaks](https://github.com/codelab-git/juice-shop/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/gitleaks.yml)
 [![trivy](https://github.com/codelab-git/juice-shop/actions/workflows/trivy.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/trivy.yml)
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)

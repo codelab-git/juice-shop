@@ -7,7 +7,7 @@
 [![ZAP Baseline Scan](https://github.com/codelab-git/juice-shop/actions/workflows/zap_scan.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/zap_scan.yml)
 [![ZAP Full Scan](https://github.com/codelab-git/juice-shop/actions/workflows/zap_full_scan.yml/badge.svg)](https://github.com/codelab-git/juice-shop/actions/workflows/zap_full_scan.yml)
 
-[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
+
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)
 [![Twitter Follow](https://img.shields.io/twitter/follow/owasp_juiceshop.svg?style=social&label=Follow)](https://twitter.com/owasp_juiceshop)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/owasp_juiceshop?style=social)](https://reddit.com/r/owasp_juiceshop)
